@@ -1,0 +1,235 @@
+{
+    "mobilePhones": [
+      {
+        "id": "1",
+        "brand": "Apple",
+        "model": "iPhone 12",
+        "image": "iphone12.jpg",
+        "specs": {
+          "display": "Super Retina XDR OLED, 6.1 inches",
+          "processor": "Apple A14 Bionic",
+          "ram": "4GB",
+          "storage": "64GB / 128GB / 256GB",
+          "battery": "2815 mAh",
+          "camera": "Dual 12MP rear, 12MP front"
+        },
+        "description": "The iPhone 12 features a stunning Super Retina XDR OLED display, powerful A14 Bionic chip, and an advanced dual-camera system."
+      },
+      {
+        "id": "2",
+        "brand": "Samsung",
+        "model": "Galaxy S21",
+        "image": "galaxys21.jpg",
+        "specs": {
+          "display": "Dynamic AMOLED 2X, 6.2 inches",
+          "processor": "Exynos 2100 / Qualcomm Snapdragon 888",
+          "ram": "8GB",
+          "storage": "128GB / 256GB / 512GB",
+          "battery": "4000 mAh",
+          "camera": "Triple 12MP rear, 10MP front"
+        },
+        "description": "The Samsung Galaxy S21 showcases a brilliant Dynamic AMOLED 2X display, top-of-the-line Exynos or Snapdragon processor, and a versatile triple-camera setup."
+      },
+      
+          {
+            "id": "3",
+            "brand": "Apple",
+            "model": "iPhone 12",
+            "image": "https://example.com/images/iphone12.jpg",
+            "specs": {
+              "display": "6.1-inch Super Retina XDR",
+              "processor": "A14 Bionic",
+              "storage": "64GB/128GB/256GB",
+              "camera": "Dual 12MP Ultra Wide and Wide cameras",
+              "battery": "Built-in rechargeable lithium-ion"
+            },
+            "description": "The iPhone 12 features a sleek design, powerful A14 Bionic chip, and an impressive dual-camera system for capturing stunning photos and videos."
+          },
+          {
+            "id": "4",
+            "brand": "Samsung",
+            "model": "Galaxy S21",
+            "image": "https://example.com/images/galaxys21.jpg",
+            "specs": {
+              "display": "6.2-inch Dynamic AMOLED 2X",
+              "processor": "Exynos 2100 / Qualcomm Snapdragon 888",
+              "storage": "128GB/256GB/512GB",
+              "camera": "Triple 12MP Ultra Wide, Wide, and Telephoto cameras",
+              "battery": "4000mAh"
+            },
+            "description": "The Galaxy S21 is a flagship smartphone with a stunning display, powerful performance, and an advanced camera setup, perfect for capturing your memorable moments."
+          },
+          {
+            "id": "5",
+            "brand": "Google",
+            "model": "Pixel 5",
+            "image": "https://example.com/images/pixel5.jpg",
+            "specs": {
+              "display": "6.0-inch OLED",
+              "processor": "Qualcomm Snapdragon 765G",
+              "storage": "128GB",
+              "camera": "Dual 12.2MP Wide and 16MP Ultra Wide cameras",
+              "battery": "4080mAh"
+            },
+            "description": "The Pixel 5 offers an incredible camera system, clean Android experience, and 5G connectivity, making it an excellent choice for photography enthusiasts and Android lovers."
+          },
+          {
+            "id": "6",
+            "brand": "OnePlus",
+            "model": "9 Pro",
+            "image": "https://example.com/images/oneplus9pro.jpg",
+            "specs": {
+              "display": "6.7-inch Fluid AMOLED",
+              "processor": "Qualcomm Snapdragon 888",
+              "storage": "128GB/256GB",
+              "camera": "Quad 48MP Wide, 50MP Ultra Wide, 8MP Telephoto, and 2MP Monochrome cameras",
+              "battery": "4500mAh"
+            },
+            "description": "The OnePlus 9 Pro is a flagship device that combines cutting-edge technology, top-of-the-line specifications, and a premium design, providing a flagship experience."
+          },
+          {
+            "id": "7",
+            "brand": "Xiaomi",
+            "model": "Mi 11",
+            "image": "https://example.com/images/mi11.jpg",
+            "specs": {
+              "display": "6.81-inch AMOLED",
+              "processor": "Qualcomm Snapdragon 888",
+              "storage": "128GB/256GB",
+              "camera": "Triple 108MP Wide, 13MP Ultra Wide, and 5MP Macro cameras",
+              "battery": "4600mAh"
+            },
+            "description": "The Mi 11 offers a high-quality display, powerful performance, and an impressive camera setup, making it a great choice for multimedia enthusiasts and photography lovers."
+          },
+          
+              {
+                "id": "8",
+                "brand": "Tecno",
+                "model": "Camon 17",
+                "image": "camon17.jpg",
+                "specs": {
+                  "display": "6.6-inch IPS LCD",
+                  "camera": "48MP + 2MP + AI Lens",
+                  "processor": "Mediatek Helio G85",
+                  "ram": "4GB",
+                  "storage": "128GB",
+                  "battery": "5000mAh"
+                },
+                "description": "The Tecno Camon 17 features a large 6.6-inch IPS LCD display and a powerful Mediatek Helio G85 processor. It comes with a triple rear camera setup featuring a 48MP main camera, a 2MP depth sensor, and an AI lens. The phone offers 4GB of RAM and 128GB of internal storage, ensuring smooth performance and ample space for your apps and files. The Camon 17 is powered by a long-lasting 5000mAh battery, providing all-day usage without needing frequent recharging."
+              },
+              {
+                "id": "9",
+                "brand": "Tecno",
+                "model": "Spark 7",
+                "image": "spark7.jpg",
+                "specs": {
+                  "display": "6.52-inch HD+",
+                  "camera": "16MP + AI Lens",
+                  "processor": "Mediatek Helio A25",
+                  "ram": "3GB",
+                  "storage": "64GB",
+                  "battery": "6000mAh"
+                },
+                "description": "The Tecno Spark 7 features a 6.52-inch HD+ display and is powered by a Mediatek Helio A25 processor. It comes with a 16MP AI dual camera setup for capturing great photos. The phone offers 3GB of RAM and 64GB of internal storage, providing sufficient memory for your apps and multimedia content. With its massive 6000mAh battery, the Spark 7 ensures long-lasting performance throughout the day."
+              },
+              {
+                "id": "10",
+                "brand": "Tecno",
+                "model": "Pova 2",
+                "image": "pova2.jpg",
+                "specs": {
+                  "display": "6.9-inch FHD+",
+                  "camera": "48MP + AI Lens",
+                  "processor": "Mediatek Helio G85",
+                  "ram": "6GB",
+                  "storage": "128GB",
+                  "battery": "7000mAh"
+                },
+                "description": "The Tecno Pova 2 boasts a large 6.9-inch FHD+ display and is powered by a Mediatek Helio G85 processor. It comes with a 48MP AI quad-camera setup for capturing stunning photos and videos. The phone offers 6GB of RAM and 128GB of internal storage, ensuring smooth multitasking and ample space for your files and apps. The Pova 2 is equipped with a massive 7000mAh battery, allowing for extended usage without worrying about running out of power."
+              },
+              {
+                "id": "11",
+                "brand": "Tecno",
+                "model": "Phantom X",
+                "image": "phantomx.jpg",
+                "specs": {
+                  "display": "6.7-inch FHD+",
+                  "camera": "50MP + 13MP + 8MP",
+                  "processor": "Mediatek Helio G95",
+                  "ram": "8GB",
+                  "storage": "256GB",
+                  "battery": "4700mAh"
+                },
+                "description": "The Tecno Phantom X is a flagship device with a stunning 6.7-inch FHD+ curved display. It features a powerful Mediatek Helio G95 processor and a triple rear camera setup consisting of a 50MP main camera, a 13MP ultra-wide lens, and an 8MP depth sensor. The phone offers 8GB of RAM and 256GB of internal storage, providing ample space for your apps, games, and media files. With its 4700mAh battery, the Phantom X ensures long-lasting usage."
+            },
+            {
+                "id": "12",
+              "brand": "Tecno",
+              "model": "Camon 16",
+              "image": "camon16.jpg",
+              "specs": {
+                "display": "6.8-inch HD+",
+                "camera": "64MP + 2MP + 2MP + AI Lens",
+                "processor": "Mediatek Helio G70",
+                "ram": "4GB",
+                "storage": "64GB",
+                "battery": "5000mAh"
+              },
+              "description": "The Tecno Camon 16 features a large 6.8-inch HD+ display and is powered by a Mediatek Helio G70 processor. It comes with a quad-camera setup featuring a 64MP main camera, a 2MP depth sensor, a 2MP macro lens, and an AI lens. The phone offers 4GB of RAM and 64GB of internal storage, providing sufficient space for your apps, photos, and videos. With its 5000mAh battery, the Camon 16 offers long-lasting performance."
+            },
+            {
+                "id": "13",
+                "brand": "Infinix",
+                "model": "Infinix Note 10 Pro",
+                "image": "https://example.com/note10pro.jpg",
+                "specs": {
+                  "display": "6.95 inches, FHD+",
+                  "processor": "MediaTek Helio G95",
+                  "ram": "8 GB",
+                  "storage": "128 GB",
+                  "battery": "5000 mAh",
+                  "camera": "64 MP (Quad camera)",
+                  "operatingSystem": "Android 11"
+                },
+                "description": "The Infinix Note 10 Pro is a powerful smartphone with a large display, high-performance processor, ample RAM and storage, and a long-lasting battery. It features a versatile quad-camera setup for capturing stunning photos and runs on the latest Android 11 operating system."
+              },
+              {
+                "id": "14",
+                "brand": "Infinix",
+                "model": "Infinix Hot 10",
+                "image": "https://example.com/hot10.jpg",
+                "specs": {
+                  "display": "6.78 inches, HD+",
+                  "processor": "MediaTek Helio G70",
+                  "ram": "4 GB",
+                  "storage": "64 GB",
+                  "battery": "5200 mAh",
+                  "camera": "16 MP (Quad camera)",
+                  "operatingSystem": "Android 10"
+                },
+                "description": "The Infinix Hot 10 is a budget-friendly smartphone with a large display, decent performance, sufficient RAM and storage, and a reliable battery life. It features a quad-camera setup for capturing everyday moments and runs on the Android 10 operating system."
+              },
+              {
+                "id": "15",
+                "brand": "Infinix",
+                "model": "Infinix Zero 8",
+                "image": "https://example.com/zero8.jpg",
+                "specs": {
+                  "display": "6.85 inches, FHD+",
+                  "processor": "MediaTek Helio G90T",
+                  "ram": "8 GB",
+                  "storage": "128 GB",
+                  "battery": "4500 mAh",
+                  "camera": "64 MP (Quad camera)",
+                  "operatingSystem": "Android 10"
+                },
+                "description": "The Infinix Zero 8 is a mid-range smartphone with a large FHD+ display, powerful processor, generous RAM and storage, and a decent battery capacity. It boasts a quad-camera system for capturing detailed photos and runs on the Android 10 operating system."
+              }
+          ]
+        }
+        
+            
+        
+      
+      
+    
