@@ -33,5 +33,6 @@ In this APPLICATION As a user, I get to see
 2. For the data in the db.json file to run you need to install the json-server using this command "npm install -g json-server
 3. In the terminal navigate to the folder with your db.json file using command "cd"
 4. Start the server using this command "json-server --watch db.json"
-5. opening the index.html file will show the application running.
+5 . This is the url "http://localhost:3000/mobilePhones" for the json server.
+6. opening the index.html file will show the application running.
   
